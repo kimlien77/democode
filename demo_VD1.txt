@@ -1,1 +1,2 @@
 push code version 1
+tim hieu ve rebase
